@@ -11,7 +11,7 @@ If any example is broken, or if you'd like to add an example to this page, feel 
 General Examples
 ----------------
 
-- `async_hyperband_example <https://github.com/ray-project/ray/blob/master/python/ray/tune/examples/async_hyperband_example.py>`__: Example of using a Trainable class with AsyncHyperBandScheduler.
+- `async_hyperband_example <https://github.com/ray-project/ray/blob/master/python/ray/tune/examples/async_hyperband_example.py>`__: Example of using the function API with AsyncHyperBandScheduler.
 - `hyperband_example <https://github.com/ray-project/ray/blob/master/python/ray/tune/examples/hyperband_example.py>`__: Example of using a Trainable class with HyperBandScheduler. Also uses the Experiment class API for specifying the experiment configuration. Also uses the AsyncHyperBandScheduler.
 - `pbt_example <https://github.com/ray-project/ray/blob/master/python/ray/tune/examples/pbt_example.py>`__: Example of using a Trainable class with PopulationBasedTraining scheduler.
 - `PBT with Function API <https://github.com/ray-project/ray/blob/master/python/ray/tune/examples/pbt_function.py>`__: Example of using the function API with a PopulationBasedTraining scheduler.
